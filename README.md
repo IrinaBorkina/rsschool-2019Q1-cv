@@ -1,1 +1,1 @@
-[https://IrinaBorkina.github.io/rsschool-2019Q1-cv/cv.md]
+[https://IrinaBorkina.github.io/rsschool-2019Q1-cv/cv.md](https://IrinaBorkina.github.io/rsschool-2019Q1-cv/cv.md)
