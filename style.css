@@ -52,7 +52,7 @@ header {
 /* name */
 .name {
     height: 530px;
-    background: url(../rsschool-2019Q1-cv-html/images/bg.jpg) no-repeat top;
+    background: url(images/bg.jpg) no-repeat top;
     background-size: cover;
 }
 
